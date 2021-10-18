@@ -1,10 +1,7 @@
-# CRUD-Spring-boot
-
-## Projeto Java, Spring boot (bd h2)
+## CRUD - REST API with Spring Data JPA Repository
 ### Projeto didático realizado no curso Spring5 - luv2code. 
 > Status: Concluído
 
-#### CRUD - REST API with Spring Data JPA Repository
 
 ## Tecnologias e Ferramentas
 <table>
