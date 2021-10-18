@@ -1,9 +1,9 @@
 ## CRUD - REST API with Spring Data JPA Repository
-### Projeto didático realizado no curso Spring5 - luv2code. 
-> Status: Concluído
+### Didactic project used in the Spring 5 course - luv2code. 
+> Status: Done
 
 
-## Tecnologias e Ferramentas
+## Technologies and Tools
 <table>
   <tr> 
     <td>Java</td>
