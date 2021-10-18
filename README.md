@@ -2,6 +2,7 @@
 ### Didactic project used in the Spring 5 course - luv2code. 
 > Status: Done
 
+#### code in english
 
 ## Technologies and Tools
 <table>
