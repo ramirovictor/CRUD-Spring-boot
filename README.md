@@ -1,23 +1,19 @@
-## CRUD - REST API with Spring Data JPA Repository
-### Didactic project used in the Spring 5 course - luv2code. 
-> Status: Done
+![Java Logo](https://user-images.githubusercontent.com/37045332/125006306-3100f680-e034-11eb-8e52-2a06da52e94d.png)
 
-#### code in english
+# CRUD - REST API with Spring Data JPA Repository 🌱
 
-## Technologies and Tools
-<table>
-  <tr> 
-    <td>Java</td>
-    <td>Dependências</td>
-    <td>BD</td>
-    <td>Eclpse</td>
-    <td>Windows</td>
-  </tr>
-  <tr> 
-    <td>11</td>
-    <td>consultar pom.xml</td>
-    <td>H2</td>
-    <td>2021-06</td>
-    <td>10</td>
-  </tr>
-</table>
+## 🎓 Didactic Project
+Utilized in the Spring 5 course provided by luv2code.
+
+> **Status:** 🌐 Done
+
+_Note: Code is in English._
+
+## 💼 Technologies and Tools
+
+![Java Badge](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![POM Badge](https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white) Consult `pom.xml` for dependencies
+![Database Badge](https://img.shields.io/badge/-H2-E34F26?style=flat-square&logo=h2-database&logoColor=white)
+![Eclipse Badge](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white) Version: 2021-06
+![Windows Badge](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+
