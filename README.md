@@ -1,5 +1,3 @@
-![Java Logo](https://user-images.githubusercontent.com/37045332/125006306-3100f680-e034-11eb-8e52-2a06da52e94d.png)
-
 # CRUD - REST API with Spring Data JPA Repository 🌱
 
 ## 🎓 Didactic Project
